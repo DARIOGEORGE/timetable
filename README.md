@@ -119,3 +119,6 @@ Execute the program
 ```
 # OUPUT
 ![Client Side Time Table](./images/timetable.png)
+
+# Result
+Thus the program is to display timetable
